@@ -1,0 +1,8 @@
+This is a text file. Deep Reinforcement Learning (DRL) is the crucial fusion of two powerful artificial intelligence fields: 
+deep neural networks and reinforcement learning. By combining the benefits of data-driven neural networks and intelligent 
+decision-making, it has sparked an evolutionary change that crosses traditional boundaries. In this article, we take a 
+detailed look at the interesting evolution, enormous challenges, and dynamic trendy situation of DRL. We reveal DRL’s 
+revolutionary power by going into its core and following its progression from conquering Atari games to addressing difficult 
+real-world situations. We discover the collaborative efforts of researchers, practitioners, and policymakers that advance DRL 
+towards responsible and substantial applications as we navigate its hurdles, which vary from instability during training to 
+the exploration-exploitation paradox.
